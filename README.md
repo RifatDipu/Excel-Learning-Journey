@@ -37,10 +37,10 @@ Here's a breakdown of what I’ve been working on so far:
 ### 📈 Real Projects
 This repository will contain a growing collection of practice files, templates, and mini-projects, such as:
 
-- E
-- I
-- K
-- D
+- 
+- 
+- 
+- 
 
 🙌 Let's Connect
 If you're also learning Excel or have tips to share, feel free to fork this repo, open an issue, or just say hi!
