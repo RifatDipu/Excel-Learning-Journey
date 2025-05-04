@@ -26,6 +26,8 @@ Here's a breakdown of what I’ve been working on so far:
 - Data validation & dropdowns
 - Lookup functions (VLOOKUP, HLOOKUP, XLOOKUP)
 - Pivot tables and Pivot charts
+- Power Pivot
+- Data Modeling
 - Basic chart creation and customization
 
 ### 🔁 Automation & Productivity
