@@ -28,6 +28,7 @@ Here's a breakdown of what I’ve been working on so far:
 - Pivot tables and Pivot charts
 - Power Pivot
 - Data Modeling
+- Power Query
 - Basic chart creation and customization
 
 ### 🔁 Automation & Productivity
