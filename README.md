@@ -41,6 +41,7 @@ Here's a breakdown of what I’ve been working on so far:
 This repository will contain a growing collection of practice files, templates, and mini-projects, such as:
 
 - Telecommunication Sales Dashboard https://github.com/RifatDipu/Excel-Learning-Journey/blob/main/Business%20Dashboard.xlsx
+- Call Center Dashboard 
 - HR Analytics Dashboard
   
 🙌 Let's Connect
