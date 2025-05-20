@@ -42,7 +42,7 @@ This repository will contain a growing collection of practice files, templates, 
 
 - Telecommunication Sales Dashboard https://github.com/RifatDipu/Excel-Learning-Journey/blob/main/Business%20Dashboard.xlsx
 - Call Center Dashboard https://github.com/RifatDipu/Excel-Learning-Journey/blob/main/Call%20Center%20Dashboard.xlsx
-- HR Analytics Dashboard
+- HR Analytics Dashboard https://github.com/RifatDipu/Excel-Learning-Journey/blob/main/HR%20Analytics%20Dashboard.xlsx
   
 🙌 Let's Connect
 If you're also learning Excel or have tips to share, feel free to fork this repo, open an issue, or just say hi!
